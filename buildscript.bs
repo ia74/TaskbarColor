@@ -1,0 +1,4 @@
+BuildScript v1.0 using cl in tbc
+taskbarcolor.exe
+/O2 /EHsc 
+src/TaskbarColor.cpp User32.lib Gdi32.lib
